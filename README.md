@@ -70,7 +70,9 @@ Install the MetaMask browser extension, turn on test networks and select Sepolia
 
 ![Wallet connected](screenshots/2_connected.png)
 
-![Deposit transaction](screenshots/3_transaction.png)
+![Withdraw transaction and activity list](screenshots/3_transaction.png)
+
+![Goal reached before withdrawing](screenshots/4_goal_reached.png)
 
 ## Tech used
 
