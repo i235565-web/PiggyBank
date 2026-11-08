@@ -10,9 +10,9 @@ PiggyBank is a savings dApp on the Sepolia testnet. Each user gets their own pig
 
 The idea is the same as a real piggy bank: you can't take the money out early. Here the rule is enforced by the smart contract instead of by willpower.
 
-**Deployed contract (Sepolia):** PASTE_CONTRACT_ADDRESS_HERE
+**Deployed contract (Sepolia):** 0xdFaf5147486be7F9f4fb17670143C0fd670b44D5
 
-**View on Etherscan:** https://sepolia.etherscan.io/address/PASTE_CONTRACT_ADDRESS_HERE
+**View on Etherscan:** https://sepolia.etherscan.io/address/0xdFaf5147486be7F9f4fb17670143C0fd670b44D5
 
 ## Project files
 
